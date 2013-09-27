@@ -1,4 +1,4 @@
-* Descrption
+* Description
 lbp-roulette is a russian roulette plugin for lispbot.
 
 * Usage
